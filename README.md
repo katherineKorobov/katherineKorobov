@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first year student at University of Colorado Boulder studying Aerospace Engineering and <br>intending to minor in computer science.<br>Currently, I am building code for an automated greenhouse with touchscreen for my general engineering project.<br>Relevant Coursework: Data Structures<br>Fun Fact: I enjoy traveling! I have been to countries both in Western and Eastern Europe, and all over the United<br>States. 
+I am a first year student at University of Colorado Boulder studying Aerospace Engineering and <br>intending to minor in computer science.<br>Currently, I am building a GUI for an automated greenhouse for my general engineering project.<br>Relevant Coursework: Data Structures<br>Fun Fact: I enjoy traveling! I have been to countries both in Western and Eastern Europe, and all over the United<br>States. 
 
 
 ## 🌐 Socials:
